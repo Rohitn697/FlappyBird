@@ -12,3 +12,5 @@ Once the game is over, you need to click on the screen to start again.
 ## Libraries this app use
 - LibGdx - https://libgdx.badlogicgames.com/
 ## Screenshots
+<img src="ss1.jpg" alt="login image" align="left" width="200" hspace="10" vspace="10"  />
+<img src="ss2.jpg" alt="signUp image" align="center" width="200" hspace="10" vspace="10"  />
